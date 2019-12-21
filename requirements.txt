@@ -4,3 +4,4 @@ seaborn
 tensorflow
 keras
 sklearn
+matplotlib
