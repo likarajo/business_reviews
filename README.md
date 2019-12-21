@@ -1,8 +1,8 @@
 # Business Reviews
-Deep Learning model to predict ratings of business reviews
+Multi-input Deep Learning model to predict ratings of business reviews
 
 ## Background
-In the text classification tasks, we make use of the textual as well as the non-textual information or meta-data to classify the text which can improve accuracy of statistical model. For example, gender, nationalities, etc.
+In the text classification tasks, we make use of multiple input data types - *textual* as well as the *non-textual* information or meta-data to classify the text which can improve accuracy of statistical model. For example, gender, nationalities, etc.
 
 ## Goal
 To create a text classification system that classifies user reviews regarding different businesses into "good", "bad", and "average" using a multiple inputs model based on the text of the review along with the associated meta data. 
